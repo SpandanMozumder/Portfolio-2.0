@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
 import {cross, lines} from "../assets";
@@ -8,6 +8,10 @@ import {cross, lines} from "../assets";
 const NavbarMobile = () => {
   const router = useRouter();
   const [isOpen, setIsOpen] = useState(false);
+
+  useEffect(() => {
+    setIsOpen(false);
+  }, []);
 
   const toggleOpen = () => {
     setIsOpen(!isOpen);
