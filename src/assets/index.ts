@@ -1,0 +1,22 @@
+import cross from './cross.png';
+import lines from './lines.png';
+import github from './github.png';
+import linkedin from './linkedin.png';
+import instagram from './instagram.png';
+import html from './html.png';
+import css from './css.png';
+import javascript from './javascript.png';
+import reactjs from './reactjs.png';
+import nodejs from './nodejs.png';
+import expressjs from './expressjs.png';
+import mongodb from './mongodb.png';
+import redux from './redux.png';
+import tailwindcss from './tailwindcss.png';
+import figma from './figma.png';
+import firebase from './firebase.png';
+import chakraui from './chakraui.png';
+import framer from './framer.png';
+import postman from './postman.png';
+import copyright from './copyright.png';
+
+export { cross, lines, github, linkedin, instagram, html, css, javascript, reactjs, nodejs, expressjs, mongodb, redux, tailwindcss, figma, firebase, chakraui, framer, postman, copyright};
