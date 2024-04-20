@@ -29,15 +29,15 @@ const Resume = () => {
         </div>
 
         <div className="w-full flex justify-center gap-7">
-          <Link href="https://drive.google.com/file/d/12ZzJnR3fIvz297fYj64jVv8ZIsXNcVcX/view?usp=drive_link">
-            <button className="border bg-gradient-to-b from-[#EEEEEE] to-[#76ABAE] w-[15rem] h-[3rem] text-black rounded-md hover:font-semibold transition-all">
+          <Link href="https://drive.google.com/file/d/1UmTNqo20GWkMnM_Q6KxZsWGQiESah05G/view?usp=sharing">
+            <button className="border bg-gradient-to-b from-[#EEEEEE] to-[#76ABAE] px-[0.30rem] py-[0.25rem] text-black rounded-md hover:font-semibold transition-all">
               Download Resume
             </button>
           </Link>
 
           <button
             onClick={() => router.push("/projects")}
-            className="border bg-gradient-to-b from-[#EEEEEE] to-[#76ABAE] w-[15rem] h-[3rem] text-black rounded-md hover:font-semibold transition-all"
+            className="border bg-gradient-to-b from-[#EEEEEE] to-[#76ABAE] px-[0.30rem] py-[0.25rem] text-black rounded-md hover:font-semibold transition-all"
           >
             See All of My Projects
           </button>

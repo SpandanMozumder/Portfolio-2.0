@@ -56,7 +56,7 @@ const CV = () => {
       <div className="pb-[1.5rem]">
         <Link href="https://github.com/SpandanMozumder/iPhone-Clone">
           <h2 className="lg:text-[1.5rem] md:text-[1.3rem] font-bold cursor-pointer">
-            BitShare
+            Iphone Clone
           </h2>
         </Link>
         <p className="lg:text-[1.3rem] md:text-[1.1rem] font-extralight">
