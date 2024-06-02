@@ -13,7 +13,8 @@ My personal portfolio website
 - The basic information needed for a portfolio website: About, Resume, Projects, and Contact Me.
   
 ## Demo
-[Include a link or GIF showcasing the demo here]
+
+https://portfolio-2-0-weld-beta.vercel.app/
 
 ## Tech Stack Used
 - <img src="https://skillicons.dev/icons?i=html" />
